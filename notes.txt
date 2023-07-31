@@ -1,0 +1,9 @@
+1:::my note:::make good program:::01.07.2023
+2:::my note2:::make very good business:::02.07.2023
+3:::my note3:::create nice site:::05.07.2023
+4:::my note4:::close all debt:::02.07.2023
+5:::my note:::make make make programs:::02.07.2023
+6:::new note:::make new note:::01.08.2023
+7:::new note2:::create new program:::07.08.2023
+8:::desktop note:::my desktop program:::09.08.2023
+9:::desktop note2:::I' very good programmer:::01.09.2023
